@@ -1,0 +1,88 @@
+*{
+    margin:0px;
+    padding:0px;
+    }
+    body{
+      background-color: azure;
+      background-image: url("../images/fondo.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    
+    }
+    #particles-js{
+        height: 100vh;
+        width: 100%;
+        position: fixed;
+        z-index: -1
+      }
+    #Tifon{
+      color: #262c53;
+      font-family: tahoma;
+      font-size:300%;
+      margin-top: 2%;
+      width: 50%;
+    }
+header{
+  margin-top:2%;
+}
+    #bienvenido{
+      background-color: rgb(190, 194, 194);
+      width: 50%;
+      border-radius: 5%;
+      color: #262c53;
+    }
+      h1{
+        font-family: tahoma;
+        font-size:300%;
+      }
+      #parrafo00{
+        font-family: tahoma;
+        font-size:150%;
+      }
+      a{
+        text-decoration: none;
+      }
+      #forms{
+        background-color: rgb(190, 194, 194);
+        width: 40%;
+        margin-top: 5%;
+        font-family:tahoma;
+        font-size: 200%;
+        border-radius: 5%;
+        overflow: hidden;
+        position: relative;
+        display: inline-block;
+      }
+      a {
+        outline: none;
+        text-decoration: none;
+        width: 19.5%;
+        margin-right: 0.625%;
+        text-align: center;
+      }
+      #iniciasecion{
+        margin-right: 14%;
+      }
+      #iniciasecion:hover{
+        color: rgb(255, 68, 0);
+      text-decoration:underline;
+      }
+      #registrate{
+        margin-left: 14%;
+        
+      }
+      #registrate:hover{
+        color: rgb(255, 68, 0);
+        text-decoration:underline;
+      }
+      hr{
+        height: 50%;
+      }
+
+      #parrafo01{
+        margin-top: 4%;
+        font-family: tahoma;
+        text-decoration: underline;
+        font-size:120%;
+        color: #262c53;
+      }
